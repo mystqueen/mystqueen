@@ -28,7 +28,7 @@ My goal is to become a full-stack developer, bridging the gap between frontend a
 ## 📫 Let's Connect!
 Feel free to reach out to me for collaboration, ideas, or just a friendly chat about tech! You can find me on:
 
-- [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/rose-tetteh-84628420a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- [LinkedIn](https://www.linkedin.com/in/rose-tetteh-84628420a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](mailto:rosetetteh669@gmail.com)
 
 
